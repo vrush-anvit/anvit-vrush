@@ -1,8 +1,8 @@
-# class anvit:
-#     def display(self):
-#       print("hi anvit")
-# a=anvit()
-# a.display()
+class anvit:
+    def display(self):
+      print("hi anvit")
+a=anvit()
+a.display()
 
 # class student:
 #     def __init__(self):

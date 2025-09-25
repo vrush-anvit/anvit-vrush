@@ -4,17 +4,17 @@ class anvit:
 a=anvit()
 a.display()
 
-# class student:
-#     def __init__(self):
-#         self.name="anvit"
-#         self.rollno=15
-#         self.mark=90
-#     def talk(self):
-#         print("my name is:",self.name)
-#         print("my rollno is:",self.rollno)
-#         print("my mark is:",self.mark)
-# c=student()
-# c.talk()
+class student:
+    def __init__(self):
+        self.name="anvit"
+        self.rollno=15
+        self.mark=90
+    def talk(self):
+        print("my name is:",self.name)
+        print("my rollno is:",self.rollno)
+        print("my mark is:",self.mark)
+c=student()
+c.talk()
 
 # class student:
 #     def __int__(self,name,mark):
